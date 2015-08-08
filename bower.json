@@ -3,7 +3,6 @@
   "version": "3.1.2",
   "homepage": "https://github.com/hoangductho/cryptojs",
   "description": "CryptoJS code tranform to bower",
-  "main": "rollups/*.js",
   "keywords": [
     "CryptoJS",
     "javascript",
